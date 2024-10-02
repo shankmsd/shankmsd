@@ -2,14 +2,8 @@
 
 I'm Shashank, a curious explorer. Welcome to my GitHub profile!
 
-🌱 I'm currently diving deeper into Cyber Security
+## 📂 Featured Repository
 
-### CTF Write-ups
-[View Write-ups for Various Capture The Flag challenges I've encountered.](https://github.com/shankmsd/CTF_Writeups/)
+[Capture The Flag Writeups](https://github.com/shankmsd/CTF_Writeups/) - Write-ups for Various Capture The Flag challenges I've encountered.
 
-## Quick Links
-
-<a href="https://tryhackme.com/p/shankmsd" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/shankmsd.png" alt="TryHackMe" width= "220">
-</a>
-
+### Thanks for stopping by! 🚀
